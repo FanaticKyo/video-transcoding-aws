@@ -1,0 +1,5 @@
+/auth-service/node_modules
+/file-service/node_modules
+/transcoding-service/node_modules
+/web-service/node_modules
+.DS_Store
