@@ -2,4 +2,8 @@
 /file-service/node_modules
 /transcoding-service/node_modules
 /web-service/node_modules
+/auth-service/.env
+/file-service/.env
+/transcoding-service/.env
+/web-service/.env
 .DS_Store
