@@ -1,7 +1,6 @@
 ---
-title: "CAB432 Project Report"
-author:
-- "Sheng Xu - n11670339"
+title: "Online Video Transcoding System"
+author: "FanaticKyo"
 ---
 
 # Application overview
